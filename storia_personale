@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+<title>Storia personale</title>
+<body>
+<h1><p align="left"> Chi sono? Come mi chiamo?</p></h1>
+<h3><p align="left">Mi presento sono Alexandru Chindris, sono un ragazzo di 17 anni 
+    che frequenta la classe 3 dell' Istituto Internazionale Edoardo Agnelli.
+    Alla base della mia vita ci sono alcuni valori fondamentali.</p></h3>
+<img src="foto_profilo.jpg" alt="Immagine di profilo" width="600" height="600">
+<h1><p align="left"> Professionalità</p></h1>
+<h6><p align="left"> <h4>La professionalità sta nel sapere come farlo, quando farlo, e nel farlo. Fare pubblicità è come un gioco. Per vincere, lascia fare a chi gioca tutti i giorni.</h4>
+<h1><p align="left"> Motivazione</p></h1>
+<h6><p align="left"> <h4>Niente che valga davvero la pena di essere fatto è facile. Anch'io ho incontrato diversi ostacoli lungo il cammino, ma non rimpiango nulla. Perché? Durante il mio percorso ho affinato e messo alla prova le mie abilità.</h4>
+<h1><p align="left"> Passione</p></h1>
+<h6><p align="left"> </p><h4>“Non c'è passione nel vivere in piccolo, nel progettare una vita che è inferiore alla vita che potresti vivere.”NELSON MANDELA </h4s>
+<h1><p align="left"> Fede</p></h1>
+<h6><p align="left"> <h4>Avere fede significa credere, confidare e obbedire al volere di Dio. Chi ha fede vede l’esistenza di Dio in ogni cosa, da quelle più piccole a quelle più grandi. </h4>
+</body>
+</html>

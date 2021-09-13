@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+    <title>Cittadinanza e Costituzione</title>
+    <body>
+   <style>
+.parallax {
+  background-image: url("foto1.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+<div class="parallax"></div>  
+<div style="height:1000px;background-color:#c0c0c0;font-size:36px">
+<p align="center">Benvenuti nel sito dedicato a Cittadinanza e Costituzione creato da Alexandru Chindris in HTML!</p>
+<marquee>Ultimo aggiornamento:Domenica 12 Settembre 2021</marquee>
+<p align="center">Indice</p>
+<p align="center"><a href="storia_personale">Storia Personale</a></p>
+<p align="center"><a href="Terza">Progetti della classe terza</a></p>
+<p align="center"><a href="quarta">Progetti della classe quarta</a></p>
+<p align="center"><a href="quinta">Progetti della classe quinta</a></p>
+    </p>    
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+    <title>Terza Classe</title>
+    <body>
+<h1><p align="left">Progetti della classe terza</p></h1>
+<img src="netiquette.jpg" align="center" alt="Photo" width="500" height="400"> 
+<p><h3>Netiquette</h3></p>
+<p><h5>Netiquette La netiquette è un insieme di regole informali che disciplinano il buon comportamento di un utente sul web. </h5></p>
+<img src="scam.jpg" align="center" alt="Photo" width="500" height="400"> 
+<p><h3>Attenti alle truffe!</h3></p>
+<p><h5>Sul web molto spesso è possibile incorrere in delle truffe realizzate da criminali informatici per poter violare i tuoi dati privati! Fare molta attenzione ai siti che visitiamo e ai loro URL. Attento a dove inserisci i dati della tua carta di credito!</h5></p>
+<p><h3>25 Aprile - Il ricordo a Moncalieri</h3></p>
+<p><h5>Lavoro assegnato dalla professoressa Giulia Randone (Professoressa di Italiano) al fine di ricordare e studiare per non dimenticare. Oltre alla realizzazione di questo contenuto abbiamo letto il libro del celebre scrittore Beppe Fenoglio, "Una questione privata". Il progetto è stato realizzato in collaborazione con Giacomo Lurgo</h5></p>
+<a href="resistenza.pdf">Lavoro sulla Resistenza</a>
+<p><h3>Affidabilità delle fonti online</h3></p>
+<p><h5>Al giorno d'oggi è molto importante valutare l'affidabilità delle fonti online, come ci ricorda l'AGCOM tutte gli utenti possono esprimere la propria opinione in rete quindi ci sono dei criteri per valutare l'affidabilità delle fonti online.Tra i criteri da valutare in primo piano troviamo: l'url, l'autore del articolo, la fonte. In secondo piano troviamo alcuni aspetti semplicemente grafici come il layout grafico, i titoli delle notizie e la spunta blu degli account verificati.</h5></p>
+<p><h5>Bisognerebbe fare attenzione anche alle fake news messe in circolazione spesso a scopo diffamatorio o per fini economici.Consiglio a mia volta di controllare l'autore di quest'ultimo e verificare se tali contenuti non siano segnalati, prendendo come esempio www.Bufale.net</h5></p>
+<p><h3>I minori non accompagnati</h3></p>
+<a href="min.pdf">Lavoro sui minori non accompagnati</a>
+</body>
+</html>
